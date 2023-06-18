@@ -1,1 +1,1 @@
-# Traffic-prediction-using-AI
+# Traffic prediction using AI
